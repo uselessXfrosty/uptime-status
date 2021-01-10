@@ -2,10 +2,10 @@
 
 Changes:
 
-*add Heroku button to make depoloyment easier
-*Changed keys and navi menu in config.js
-*changed index.html file name to home.html
-*add index.php to load home.html once to show this static page
+*add Heroku button to make depoloyment easier\
+*Changed keys and navi menu in config.js\
+*changed index.html file name to home.html\
+*add index.php to load home.html once to show this static page\
 
 
 
