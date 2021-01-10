@@ -2,7 +2,7 @@
 
 
 
-Changes:
+Changes:\
 *add Heroku button to make depoloyment easier\
 *Changed settings such as keys and navi menu in config.js\
 *changed index.html file name to home.html\
