@@ -10,6 +10,6 @@
     "website": "https://github.com/51sec/uptime-status",
     "repository": "https://github.com/51sec/uptime-status",
     "env": {
-        "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-php"
+        "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-nginx"
     }
 }
