@@ -5,11 +5,11 @@ Changes:
 *add Heroku button to make depoloyment easier\
 *Changed keys and navi menu in config.js\
 *changed index.html file name to home.html\
-*add index.php to load home.html once to show this static page\
+*add index.php to load home.html to show this static page
 
 
 
-Demo Link: https://uptime-51sec.herokuapp.com/
+Demo Link: https://myuptimerobot.herokuapp.com/
 
 
 # uptime-status
