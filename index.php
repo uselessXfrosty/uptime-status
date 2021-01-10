@@ -1,1 +1,1 @@
-<?php include_once(“src/index.js”); ?>
+<?php include_once(“public/index.html”); ?>
