@@ -1,14 +1,14 @@
-// 配置
+// Configuration
 window.Config = {
 
-  // 站点名
+  // Site Name
   SiteName: 'Uptime Status',
 
-  // 站点链接
+  // Site URL
   SiteUrl: '/',
 
   // UptimeRobot Api Keys
-  // 支持 Monitor-Specific 和 Read-Only 两只 Api Key
+  // Support both Monitor-Specific and  Read-Only type's Api Key
   ApiKeys: [
     'm783399407-b5654044806678e2a377de7f',
     'm783399409-ec794f627ab64b259503f034',
@@ -16,15 +16,15 @@ window.Config = {
    
   ],
 
-  // 是否显示监测站点的链接
+  // if shows monitored site's URL
   ShowLink: false,
 
-  // 日志天数
-  // 虽然免费版说仅保存60天日志，但测试好像API可以获取90天的
-  // 不过时间不要设置太长，容易卡，接口请求也容易失败
+  // Show how many days of log. 
+  // API can have 90 days, although free plan says only for 60 days.
+  // 60 is a good number for log days. 
   CountDays: 90,
 
-  // 导航栏菜单
+  // Navigation menu at top right. 
   Navi: [
     {
       text: 'Homepage',
