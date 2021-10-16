@@ -16,3 +16,14 @@ Demo Link: https://myuptimerobot.herokuapp.com/
 
 # uptime-status
  A uptime status dashboard based on UptimeRobot API
+ 
+# Configuration
+
+Change API keys in config.js file. You can create your monitor only UptimeRobot api key for each monitor object.
+
+# Orignal Author
+https://github.com/yb/uptime-status
+
+This project is based on yb/uptime-status's work. 
+
+
