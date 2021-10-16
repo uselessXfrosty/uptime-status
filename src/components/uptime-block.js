@@ -9,15 +9,15 @@ const UptimeBlock = (props) => {
     let text = data.date.format('YYYY-MM-DD');
     if (data.uptime >= 100) {
       status = 'ok';
-      text += ` 可用率 ${fixed(data.uptime)}%`;
+      text += ` Available Rate ${fixed(data.uptime)}%`;
     }
     else if (data.uptime <= 0 && data.down.times === 0) {
       status = 'none';
-      text += ' 无数据';
+      text += ' No Data';
     }
     else {
       status = 'down';
-      text += ` 故障 ${data.down.times} 次，累计 ${formatDuration(data.down.duration)}，可用率 ${fixed(data.uptime)}%`;
+      text += ` Down${data.down.times} times，Total Down ${formatDuration(data.down.duration)}，Available Rate ${fixed(data.uptime)}%`;
     }
     return { status, text };
   }, [data]);
