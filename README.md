@@ -1,19 +1,24 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/51sec/uptime-status/master)
-
+# Screenshots
+Status Example Page:
 ![Preview](https://photos.51sec.org/file/test1-51sec/2021/10/chrome_1jzHeKQfnM.png)
+One Click Deploy to Heroku (After you changed API keys in config.js file. You will need to generate key for each monitor object from UptimeRobot's Dashboard):
+![Preview](https://photos.51sec.org/file/test1-51sec/2021/10/chrome_QDkYJo1TRN.png)
+Add your own custom domain to your Heroku project:
+![Preview](https://photos.51sec.org/file/test1-51sec/2021/10/chrome_SLaryDkWm5.png)
 
-Changes:\
+# Changes:\
 *add Heroku button to make depoloyment easier\
 *add app.json and composer.json files\
 *Changed settings such as keys and navigation menu in config.js\
 *changed index.html file name to home.html\
 *add index.php to load home.html to show this static page
 
-![Preview](https://photos.51sec.org/file/test1-51sec/2021/10/chrome_1jzHeKQfnM.png)
 
 
-Demo Link: https://myuptimerobot.herokuapp.com/
 
+Demo Link: 
+https://myuptimerobot.herokuapp.com/
 https://uptimerobot.51sec.eu.org/
 
 
