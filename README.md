@@ -1,6 +1,6 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/51sec/uptime-status/master)
 
-
+![Preview](https://photos.51sec.org/file/test1-51sec/2021/10/chrome_1jzHeKQfnM.png)
 
 Changes:\
 *add Heroku button to make depoloyment easier\
@@ -9,9 +9,12 @@ Changes:\
 *changed index.html file name to home.html\
 *add index.php to load home.html to show this static page
 
+![Preview](https://photos.51sec.org/file/test1-51sec/2021/10/chrome_1jzHeKQfnM.png)
 
 
 Demo Link: https://myuptimerobot.herokuapp.com/
+
+https://uptimerobot.51sec.eu.org/
 
 
 # uptime-status
