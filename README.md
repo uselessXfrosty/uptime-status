@@ -2,8 +2,10 @@
 # Screenshots
 Status Example Page:
 ![Preview](https://photos.51sec.org/file/test1-51sec/2021/10/chrome_1jzHeKQfnM.png)
+
 One Click Deploy to Heroku (After you changed API keys in config.js file. You will need to generate key for each monitor object from UptimeRobot's Dashboard):
 ![Preview](https://photos.51sec.org/file/test1-51sec/2021/10/chrome_QDkYJo1TRN.png)
+
 Add your own custom domain to your Heroku project:
 ![Preview](https://photos.51sec.org/file/test1-51sec/2021/10/chrome_SLaryDkWm5.png)
 
